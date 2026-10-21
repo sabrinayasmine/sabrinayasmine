@@ -1,7 +1,7 @@
 ## Sabrina Yasmine
 
-- 🔭 Estudante de informática
-- 🌱 Gosto da área
+- IFPB - Técnico em informática
+
 
   <div>
     [![Gmail](https://img.shields.io?
