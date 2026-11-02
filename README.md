@@ -11,8 +11,18 @@
 - IFPB - Técnico em informática
 
 
-  <div>
-    [![Gmail](https://img.shields.io?
-    [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram)](https://instagram.com/brina.yas/?next=%2F)
+<p align="center">
+  <a href="https://instagram.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/INSTAGRAM-2D003B?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LINKEDIN-2D003B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+  </a>
+</p>
 
-  </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode,figma&theme=dark"/>
+</p>
+
+
