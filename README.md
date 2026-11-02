@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D003B,50:800080,100:C084FC&height=150&section=header" width="100%"/>
+
+
 ## Sabrina Yasmine
 
 - IFPB - Técnico em informática
