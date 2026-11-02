@@ -18,8 +18,11 @@
   <a href="https://instagram.com/sabrina._yasmine">
     <img src="https://img.shields.io/badge/INSTAGRAM-2D003B?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
   </a>
-  <a href="https://www.linkedin.com/in/sabrina-y-3732973b3/">
-    <img src="https://img.shields.io/badge/LINKEDIN-2D003B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,github,vscode&theme=dark"/>
+</p>
+
   </a>
 </p>
 
