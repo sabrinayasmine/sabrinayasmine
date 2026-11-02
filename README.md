@@ -26,7 +26,7 @@
 <p align="center">
 
   
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,github,vscode&theme=dark"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D003B,50:800080,100:C084FC&height=150&section=footer" width="100%"/>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,github,vscode&theme=dark"/>
 </p>
