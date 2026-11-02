@@ -12,10 +12,13 @@
 
 
 <p align="center">
-  <a href="https://instagram.com/SEU_USUARIO">
+  <a href="mailto:sabrinayasmine029@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-2D003B?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+  </a>
+  <a href="https://instagram.com/sabrina._yasmine">
     <img src="https://img.shields.io/badge/INSTAGRAM-2D003B?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <a href="https://www.linkedin.com/in/sabrina-y-3732973b3/">
     <img src="https://img.shields.io/badge/LINKEDIN-2D003B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
   </a>
 </p>
